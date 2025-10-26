@@ -84,6 +84,7 @@ Handles transaction records for bookings.
  4.Payment system
  5.Review management
 
+
  ## API Security
  The key security measures implemented include session management,rate limiting,user authentication using two factor authentication. This security measures are crucial to ensure that transactions performed online via this project's payment system are protected from attacks.
 
