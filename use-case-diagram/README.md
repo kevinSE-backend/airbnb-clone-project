@@ -1,0 +1,1 @@
+This entails an erd diagram for the airbnb-clone project
